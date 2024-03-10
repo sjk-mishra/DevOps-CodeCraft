@@ -6,3 +6,4 @@ activate
 *.ps1
 *cfg
 user.sh
+.env
