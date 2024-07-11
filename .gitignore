@@ -1,0 +1,8 @@
+Lib
+Include
+*.exe
+*.bat
+activate
+*.ps1
+*cfg
+user.sh
